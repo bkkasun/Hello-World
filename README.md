@@ -1,2 +1,4 @@
 # Hello-World
-This my first repository
+
+Hi guys,
+I'm Kasun and this my first repository
